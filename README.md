@@ -1,2 +1,2 @@
 # Data-Analyst
-Projects as Data Analyst
+Project as Data Analyst
